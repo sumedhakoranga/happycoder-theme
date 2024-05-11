@@ -2,14 +2,14 @@
   "name": "happy-coder",
   "displayName": "happy coder",
   "description": "happy coder theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "sumaniiiii",
   "icon": "images/logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/sumedhakoranga/happycoder-theme"
   },
-  "keywords":[
+  "keywords": [
     "theme",
     "dark theme",
     "nature",
