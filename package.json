@@ -4,9 +4,10 @@
   "description": "happy coder theme",
   "version": "0.0.1",
   "publisher": "sumaniiiii",
+  "icon": "images/logo.png",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/sumedhakoranga/happycoder-theme"
   },
   "keywords":[
     "theme",
