@@ -1,0 +1,35 @@
+{
+  "name": "happy-coder",
+  "displayName": "happy coder",
+  "description": "happy coder theme",
+  "version": "0.0.1",
+  "publisher": "sumaniiiii",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords":[
+    "theme",
+    "dark theme",
+    "nature",
+    "happy coder",
+    "coder",
+    "happy theme",
+    "night theme"
+  ],
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "happy coder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/happy coder-color-theme.json"
+      }
+    ]
+  }
+}
